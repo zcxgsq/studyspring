@@ -1,0 +1,601 @@
+com.wdcq.ltg卍我的传奇,wodechuanqi,wdcq
+com.sanjiuyx.gzwd卍复古传奇,fuguchuanqi,fgcq
+com.duoyi.shenwu,com.hero.shenwu,com.duoyi.shenwu3卍神武3,神武3手游,shenwu3,sw3,神武2,shenwu2,sw2
+com.garena.game.kgtw,com.garena.game.kgtwtest卍传说对决(台服),Arena of Valor (TW),chuanshuoduijue(taifu),csdj(tf),传说对决,chuanshuoduijue,csdj,傳說對決,moba,lol,王者荣耀台服,wangzherongyao,wzry,Garena,开黑
+com.netease.dwrg,com.tencent.tmgp.dwrg卍第五人格(国服),Identity V (CN),diwurenge(guofu),dwrg(gf),第五人格,Identity 5,diwurenge,dwrg,网易,wangyi,wy,黎明杀机
+com.netease.wyclx卍楚留香,chuliuxiang,clx,网易,wangyi,wy
+com.tencent.tmgp.sskgame卍圣斗士星矢(腾讯),shengdoushixingshi(tengxun),sdsxs(tx)
+com.yinhu.sdk.fxy.pj卍封仙域,fengxianyu,fxy
+com.yaowan.wszzl.miyu.blockgame卍武神赵子龙,wushenzhaozilong,wszzl
+cn.miyugame.mlzh.blockgame卍魔灵宝贝,molingbaobei,mlbb
+com.tencent.tmgp.pubgmhd卍刺激战场(国服),PUBG Mobile (CN),cijizhanchang(guofu),cjzc(gf),刺激战场,cijizhanchang,cjzc,绝地求生:刺激战场,juedeqiusheng:cijizhanchang,jdqs:cjzc,吃鸡,chiji
+com.tencent.tmgp.yys.zqb,com.netease.onmyoji,com.onmyoji.hmt2卍阴阳师,Onmyoji (CN),yinyangshi,yys,Onmyoji,网易,wangyi,wy,陰陽師,ssr
+com.tencent.tmgp.dhhzl.zqb,com.netease.dhhzl卍大航海之路,dahanghaizhilu,dhhzl,网易,wangyi,wy
+com.tencent.ig卍刺激战场(亚服),PUBG Mobile (AS),cijizhanchang(yafu),cjzc(yf),绝地求生:刺激战场(亚服),juedeqiusheng:cijizhanchang(yafu),jdqs:cjzc(yf),絕地求生:刺激戰場国际版,吃鸡,大逃杀
+com.pubg.krmobile,com.tencent.ig卍刺激战场(日韩),PUBG Mobile (KR&JP),cijizhanchang(rihan),cjzc(rh),배틀그라운드,绝地求生:刺激战场,大逃杀,jdqs,dts,吃鸡,chiji,韩服,日服
+com.supercell.brawlstars卍荒野乱斗,Brawl Stars,huangyeluandou,hyld,Supercell卡牌竞技
+com.netease.lh01卍潮人篮球,Fever Basketball,chaorenlanqiu,crlq,FBGame
+com.NextFloor.DestinyChild卍天命之子(韩服),Destiny Child (KR),tianmingzhizi(hanfu),tmzz(hf),데스티니 차일드,데스티니 차일드 for kakao,destiny child
+com.epicgames.fortnite卍堡垒之夜(澳服),Fortnite Battle Royale(AU),baoleizhiye(aofu),blzy(af),堡垒之夜手游(澳服),baoleizhiyeshouyou(aofu),blzysy(af)
+com.epicgames.fortnite卍堡垒之夜(美服),Fortnite Battle Royale(US),baoleizhiye(meifu),blzy(mf),堡垒之夜手游(美服),baoleizhiyeshouyou(meifu),blzysy(mf)
+com.epicgames.fortnite卍堡垒之夜(欧服),Fortnite Battle Royale(EU),baoleizhiye(oufu),blzy(of),堡垒之夜手游(欧服),baoleizhiyeshouyou(oufu),blzysy(of)
+com.epicgames.fortnite卍堡垒之夜(亚服),Fortnite Battle Royale(AS),baoleizhiye(yafu),blzy(yf),堡垒之夜,Fortnite Battle Royale,baoleizhiye,blzy,FortCraft,要塞英雄：大逃殺
+com.sanguosha.mjz卍三国杀名将传,sanguoshamingjiangchuan,sgsmjc
+com.tencent.tmgp.stzb,com.netease.stzb卍率土之滨,lvtuzhibin,ltzb,shuaituzhibin,网易率土之滨,wangyilvtuzhibin,wyltzb,wangyishuaituzhibin,wystzb
+com.tencent.tmgp.gmdl,com.netease.gmdl卍光明大陆,Land of Glory (CN),guangmingdalu,gmdl,网易光明大陆,wangyiguangmingdalu,wygmdl,Land of glory
+com.netease.dhxy.sy37,com.netease.dhxy卍大话西游,dahuaxiyou,dhxy,网易大话西游,wangyidahuaxiyou,wydhxy
+com.ycgame.t11卍蜀门手游,shumenshouyou,smsy
+com.westhouse.mysjb.xsj,com.tq.my卍魔域手游,moyushouyou,mysy
+com.ylbgj.rastar卍苍之纪元,cangzhijiyuan,czjy
+com.sjyou.xy602卍屠龙战城,tulongzhancheng,tlzc
+com.xindong.thelastcrown卍最终王冠,zuizhongwangguan,zzwg
+cn.mlong.cos.miyu.blockgame卍次元前线,ciyuanqianxian,cyqx
+com.denachina.g10000001.denacn卍圣斗士星矢：重生,shengdoushixingshi：zhongsheng,sdsxs：zs
+com.kkwan.yjyh.hyww卍笑傲乾坤,xiaoaoqiankun,xaqk
+com.netease.qrzd,com.jinwan.yyd7rzd.x7sy,com.tencent.tmgp.yongyong.yydqrzd卍永远的7日之都,yongyuande7rizhidou,yyd7rzd,网易,wangyi,wy
+com.netease.moba,com.tencent.tmgp.kaopu.jzpaj,com.shouyou.jzpaj.bg卍决战！平安京,Onmyoji Arena (CN),juezhan！pinganjing,jz！paj,决战!平安京,juezhan!pinganjing,jz!paj,Onmyoji Arena,阴阳师MOBA,开黑
+com.studiowildcard.wardrumstudios.ark卍方舟:生存进化,ARK: Survival Evolved,fangzhou:shengcunjinhua,fz:scjh
+com.zlongame.mhmnz.mumu卍梦幻模拟战,menghuanmonizhan,mhmnz
+com.netease.zjz,com.tencent.tmgp.yongyong.zjz,com.netease.zjz2.nearme.gamecenter卍终结者2:审判日,Rules of Survival (CN),zhongjiezhe2:shenpanri,zjz2:spr,电影官方大逃杀手游,荒野大逃杀,吃鸡,网易,netease,pubg,绝地求生,Rules of Survival,ros
+com.netease.zmq,com.tencent.tmgp.yinhan.zmq卍镇魔曲,镇魔曲手游,zhenmoqu,zmq,网易镇魔曲,wangyizhenmoqu,wyzmq
+com.aniplex.fategrandorder卍Fate/GO(日服),Fate/GO (JP),Fate/GO(rifu),Fate/GO(rf),Fate/GO 日服,Fate/GO rifu,Fate/GO rf,FateGrandOrder日服,FateGrandOrderrifu,FateGrandOrderrf,fgo,fatego,rifu
+com.tencent.tmgp.speedmobile卍QQ飞车,QQfeiche,QQfc,QQ飞车(删档测试版),GKART (Close Beta),QQfeiche(shandangceshiban),QQfc(sdcsb)
+com.tencent.tmgp.pubgm卍全军出击,PUBG Mobile by TiMi (CN),quanjunchuji,qjcj,绝地求生:全军出击,juedeqiusheng:quanjunchuji,jdqs:qjcj,绝地求生 全军出击,juedeqiusheng quanjunchuji,jdqs qjcj,吃鸡,chiji
+com.tencent.tmgp.zqgame.ma,com.netease.pnxbwysw卍叛逆性百万亚瑟王,pannixingbaiwanyasewang,pnxbwysw,网易,wangyi,wy
+com.netease.yzs,com.tencent.tmgp.yongyong.yzs卍影之诗,影之诗(网易版),yingzhishi,yzs,shadowverse,网易,wangyi,wy
+com.tencent.tmgp.tx,com.netease.tx卍天下,tianxia,tx,网易天下,wangyitianxia,wytx
+com.askj.jtyl11.ewan.jingqi卍山海经3D,shanhaijing3D,shj3D
+com.xy.moyuguilai卍魔域来了,moyulaile,myll
+com.netease.AVALON,com.tencent.tmgp.lewu.lhjx,com.jinwan.lhjx.x7sy卍猎魂觉醒,The Soul of Hunter (CN),liehunjuexing,lhjx,网易,wangyi,wy
+com.tencent.ig卍刺激战场(美服),PUBG Mobile (US),cijizhanchang(meifu),cjzc(mf),绝地求生:刺激战场(美服),juedeqiusheng:cijizhanchang(meifu),jdqs:cjzc(mf),PUBG Mobile,絕地求生:刺激戰場国际版,吃鸡,大逃杀
+com.netease.jwxfax,com.tencent.tmgp.yongyong.jwxf,com.netease.faro卍舰无虚发:暗星,jianwuxufa:anxing,jwxf:ax,网易,wangyi,wy
+com.tencent.crossgate卍魔力宝贝,魔力宝贝手机版,molibaobei,mlbb,molibaobeishoujiban,mlbbsjb
+com.shengtu.cqllh5.yyfx,com.huimee.dabaoapp卍传奇来了,chuanqilaile,cqll
+com.sjyy.qyxxz卍青云奇侠传,qingyunqixiachuan,qyqxc
+com.tencent.tmgp.dtws,com.netease.dtws卍大唐无双,大唐无双手游,datangwushuang,dtws,网易大唐无双,wangyidatangwushuang,wydtws
+com.mobile.legends卍无尽对决,Mobile Legends,wujinduijue,wjdj,Mobile Legends：bang bang,外服MOBA,ML,王者荣耀LOL,开黑
+com.netease.my卍梦幻西游,梦幻西游手游,menghuanxiyou,mhxy,网易梦幻西游,wangyimenghuanxiyou,wymhxy
+tv.twitch.android.app卍Twitch,直播
+com.netease.qnyh,com.tencent.tmgp.l10,com.netease.l10卍倩女幽魂,倩女幽魂手游,qiannvyouhun,qnyh,网易倩女幽魂,wangyiqiannvyouhun,wyqnyh
+com.netease.gd,com.tencent.tmgp.yongyong.gdxf卍孤岛先锋,gudaoxianfeng,gdxf,wangyi,网易,wy
+com.tencent.tmgp.yongyong.mfjs,com.netease.index,com.shouyou.mfjsml.guopan,com.netease.mfjsml.yyxx.tt卍魔法禁书目录,A Certain Magical Index,mofajinshumulu,mfjsml,网易,wangyi,wy
+com.netease.hwfz,com.tencent.tmgp.yongyong.hwfz卍汉王纷争,hanwangfenzheng,hwfz,网易,wangyi,wy
+com.netease.hzgj卍魂之轨迹,hunzhiguiji,hzgj,网易,wangyi,wy
+com.tencent.tmgp.yongyong.jzhsmyj,com.netease.hsmyj卍九州·海上牧云记,jiuzhou·haishangmuyunji,jz·hsmyj,网易,wangyi,wy
+com.tencent.tmgp.mt4卍我叫MT4,wojiaoMT4,wjMT4
+com.tencent.tmgp.jxqy卍新剑侠情缘,Sword Heroes’ Fate,xinjianxiaqingyuan,xjxqy,剑侠情缘,jianxiaqingyuan,jxqy
+com.tencent.tmgp.ffom卍自由幻想,ziyouhuanxiang,zyhx
+com.tencent.tmgp.wec卍乱世王者,luanshiwangzhe,lswz
+com.happyelements.AndroidAnimal卍开心消消乐,kaixinxiaoxiaole,kxxxl,休闲益智
+com.tencent.tmgp.cf卍穿越火线,CrossFire Mobile (CN),chuanyuehuoxian,cyhx,腾讯穿越火线枪战王者,tenxunchuanyuehuoxian,txcyhx,Cross Fire,cffps,射击,CF,fps,CrossFire Legends
+com.zlongame.fzdl,com.tencent.tmgp.fzdl,com.zlongame.fzdl.guopan卍风之大陆,fengzhidalu,fzdl
+com.tencent.tmgp.qqx5卍QQ炫舞,QQ炫舞手游,QQxuanwu,QQxw
+com.tencent.shootgame卍魂斗罗:归来,hundouluo:guilai,hdl:gl
+com.tencent.tmgp.tstl卍天龙八部,tianlongbabu,tlbb
+com.qqgame.hlddz卍欢乐斗地主,huanledoudezhu,hlddz,斗地主
+com.tencent.tmgp.gbits.atm,com.gbits.atm卍问道,wendao,wd
+com.tencent.fifamobile卍FIFA足球世界,FIFA Mobile,FIFAzuqiushijie,FIFAzqsj
+com.igg.android.lordsmobile,com.igg.ios.lordsmobile,com.igg.android.lordsmobile_cn卍王国纪元,Lords Mobile,wangguojiyuan,wgjy,lords mobile
+com.tencent.tmgp.lilithgame.sgame卍剑与家园,jianyujiayuan,jyjy,art of conquest
+com.wdj.supercell.clashroyale.yixin,com.tencent.tmgp.supercell.clashroyale,com.supercell.clashroyale卍皇室战争,Clash Royale,huangshizhanzheng,hszz,部落冲突：皇室战争
+com.tencent.tmgp.tmsk.qj2卍奇迹MU:觉醒,qijiMU:juexing,qjMU:jx
+com.tencent.KiHan卍火影忍者,huoyingrenzhe,hyrz
+com.tencent.hxgame卍QQ华夏,QQ华夏手游,QQhuaxia,QQhx,QQhuaxiashouyou,QQhxsy
+com.tencent.tmgp.zhuxian卍诛仙,zhuxian,zx
+com.qqgame.happymj卍欢乐麻将全集,huanlemajiangquanji,hlmjqj
+com.tencent.tmgp.dragonnest卍龙之谷,longzhigu,lzg,腾讯龙之谷,tenxunlongzhigu,txlzg,dn,dragon nest
+com.denachina.g13002008.denacn,com.cmge.ssjd.m4399,com.cmge.ssjd.baidu,com.cmge.ssjd.aligames,com.cmge.ssjd.mz,com.tencent.tmgp.cmge.ssjd,com.cmge.ssjd.qihoo,com.ssjd.mi,com.ssjd.cmge卍境界-死神激斗,jingjie-sishenjidou,jj-ssjd,境界,境界-死神激斗（正版授权）,jingjie,jj,jingjie-sishenjidou（zhengbanshouquan）,jj-ssjd（zbsq）,jjssjd
+com.netease.pes卍实况足球,shikuangzuqiu,skzq,PES2018,世界杯,网易,wangyi,wy
+com.tencent.tmgp.bh3,com.miHoYo.enterprise.NGHSoD,com.miHoYo.bh3卍崩坏3,Honkai Impact 3 (CN),benghuai3,bh3
+com.tencent.tmgp.fcicv卍电击文库：零境交错,dianjiwenku：lingjingjiaocuo,djwk：ljjc
+com.supercell.clashofclans,com.tencent.tmgp.supercell.clashofclans,com.darksoulcoc.clashofclans1,com.clashology.sv1clash,ru.cocbuilder.wrapperhideout.b5,cc.royalwar.cocs1,com.joke.coc,nullsclash.night.rel卍部落冲突,Clash of Clans,buluochongtu,blct,coc
+com.netease.liuxinghudiejian,com.netease.lx12,com.tencent.tmgp.lx12卍流星蝴蝶剑,liuxinghudiejian,lxhdj,网易,wangyi,wy
+com.tencent.tmgp.xymobile卍轩辕传奇,xuanyuanchuanqi,xycq
+com.pwrd.wlwz.laohu卍武林外传,武林外传手游,wulinwaichuan,wlwc
+com.tencent.tmgp.ylm卍御龙在天,yulongzaitian,ylzt
+com.tencent.tmgp.jxsj2卍剑侠世界2,jianxiashijie2,jxsj2
+com.tencent.tmgp.yxwdzzjy卍魔法门之英雄无敌:战争纪元,mofamenzhiyingxiongwudi:zhanzhengjiyuan,mfmzyxwd:zzjy
+com.tencent.tmgp.sgrlz,com.netease.sgrlz.卍三国如龙传,sanguorulongchuan,sgrlc,网易,wangyi,wy
+com.ztgame.bob卍球球大作战,qiuqiudazuozhan,qqdzz,Battle of Balls
+com.tencent.tmgp.xxsy卍寻仙,xunxian,xx
+com.tencent.tmgp.NBA卍最强NBA,zuiqiangNBA,zqNBA
+com.blizzard.wtcg.hearthstone,com.blizzard.wtcg.cn.hearthstone卍炉石传说,lushichuanshuo,lscs,Hearthstone
+com.digitalsky.girlsfrontline.cn,com.tencent.tmgp.girlsfrontline卍少女前线,Girls’ Frontline,shaonvqianxian,snqx
+com.tencent.tmgp.zlong卍真龙霸业,zhenlongbaye,zlby
+com.tencent.tmgp.g12000128,cn.mobage.g12000128卍航海王 启航,hanghaiwang qihang,hhw qh,ONE PIECE
+com.tencent.tmgp.fgo,com.bilibili.fatego卍Fate/GO 国服,Fate/GO guofu,Fate/GO gf,fate grand order,冠位指定,命运,fate/grand order,fgo,mingyunguanweizhiding,fatego
+com.tencent.feiji卍全民飞机大战,quanminfeijidazhan,qmfjdz
+com.pandadastudio.ninjamustdie3卍忍者必须死3,renzhebixusi3,rzbxs3
+com.tencent.tmgp.qjnn卍奇迹暖暖,qijinuannuan,qjnn
+com.youzu.android.snsgz,com.tencent.tmgp.snsgz卍少年三国志,shaoniansanguozhi,snsgz
+com.tencent.tmgp.dtszj,com.sy.yhxmz.cn卍永恒纪元,yonghengjiyuan,yhjy,AION
+com.tencent.tmgp.mff卍漫威:未来之战,manwei:weilaizhizhan,mw:wlzz,复仇者联盟3,复联3
+com.tencent.kof卍拳皇命运,quanhuangmingyun,qhmy
+bf.sgs.hdexp,com.sgshd.nearme.gamecenter卍三国杀,sanguosha,sgs
+apps-com.babeltime.fknsg2.wdj,com.tencent.tmgp.fknsg2,com.babeltime.sg2.zyx卍放开那三国2,fangkainasanguo2,fknsg2
+com.tencent.tmgp.dragonball卍龙珠激斗,longzhujidou,lzjd
+com.tencent.tmgp.bilibili.blhx,com.bilibili.azurlane卍碧蓝航线,Azur Lane,bilanhangxian,blhx
+com.tencent.tmgp.kof98卍拳皇98OL,quanhuang98OL,qh98OL
+com.tencent.tmgp.cjhwy,com.tanyu.cjhwy卍超进化物语,chaojinhuawuyu,cjhwy
+com.qqgame.mic卍英雄杀,yingxiongsha,yxs
+com.tencent.tmgp.lhrg,com.aligames.ourpalm.wdqk,com.prefectw.lhrg.zn卍烈火如歌,liehuoruge,lhrg
+com.tencent.tmgp.RunGame卍天天酷跑,tiantiankupao,ttkp
+com.papegames.evol,com.tencent.tmgp.evol卍恋与制作人,lianyuzhizuoren,lyzzr
+com.tencent.tmgp.ztj卍择天记,zetianji,ztj
+com.netease.mhxyhtb卍梦幻西游互通版,menghuanxiyouhutongban,mhxyhtb,网易梦幻西游互通版,wangyimenghuanxiyouhutongban,wymhxyhtb,梦幻西游口袋版,menghuanxiyoukoudaiban,mhxykdb
+com.netease.ma59,com.tencent.tmgp.jwt.zqb卍劲舞团,劲舞团手游,jinwutuan,jwt,劲舞时代
+com.tencent.freestyle卍街头篮球,jietoulanqiu,jtlq,街球,jieqiu
+com.tencent.tmgp.rxjhbj,com.longtugame.rxjh,com.duduplay.hk.rxjh卍热血江湖,rexuejianghu,rxjh
+com.tencent.slgame卍我的王朝,wodewangchao,wdwc
+com.xd.ro.roapk卍仙境传说RO:守护永恒的爱,Ragnarok Online,xianjingchuanshuoRO:shouhuyonghengdeai,xjcsRO:shyhda
+com.nhnpa.cpstw,com.nhnpa.cps卍#COMPASS (TW&JP),#COMPASS (台服),#COMPASS (日服),#COMPASS (TW),#COMPASS (taifu),#COMPASS (tf),戰鬥神意解析系統,战斗天赋解析系统,#コンパス 【戦闘摂理解析システム】
+com.jumpw.mobile300卍300大作战,300dazuozhan,300dzz,300英雄
+com.microsoft.xboxone.smartglass卍Xbox,360
+com.dle.afterpulse卍电磁风暴,Afterpulse,diancifengbao,dcfb
+jp.colopl.alice卍爱丽丝机甲,alice gear aegis,ailisijijia,alsjj,アリス・ギア・アイギス
+jp.co.cyberagent.alternajp卍妃十三学园(日版),Alternative Girls (JP),feishisanxueyuan(riban),fssxy(rb),オルタナティブガールズ,妃十三學園,替代女友
+com.rovio.baba卍愤怒的小鸟2,Angry Birds 2,fennudexiaoniao2,fndxn2
+com.rovio.tnt,com.rovio.tnt.gm卍愤怒的小鸟:演化,Angry Birds Evolution,fennudexiaoniao:yanhua,fndxn:yh
+com.zhiniu.mfyry卍暗黑魔神,anheimoshen,ahms
+com.cq.ahzy卍暗黑战域,anheizhanyu,ahzy,黎明觉醒
+com.nintendo.zaca卍动物之森:口袋营地,Animal Crossing: Pocket Cam,dongwuzhisen:koudaiyingde,dwzs:kdyd,口袋露营
+com.miniclip.archery卍Archery King
+com.ngame.allstar.eu卍传说对决(亚服),Arena of Valor (AS),chuanshuoduijue(yafu),csdj(yf),王者荣耀海外版,开黑
+com.ngame.allstar.eu卍传说对决(欧服),Arena of Valor (EU),chuanshuoduijue(oufu),csdj(of),Strike of Kings:5v5 Arena Game,Arena of Valor: 5v5 Arena Game,王者荣耀欧服,勇气竞技场,开黑
+com.garena.game.kgid卍传说对决(印尼服),Arena of Valor (ID),chuanshuoduijue(yinnifu),csdj(ynf),王者荣耀,传说对决,英雄联盟,LOL
+com.netmarble.penta卍传说对决(韩服),Arena of Valor (KR),chuanshuoduijue(hanfu),csdj(hf),펜타스톰 for Kakao,五杀风暴,penta storm,开黑
+com.garena.game.kgth卍传说对决(泰服),Arena of Valor (THA),chuanshuoduijue(taifu),csdj(tf),Garena RoV: Mobile MOBA,王者荣耀泰服,开黑
+com.ngame.allstar.eu卍传说对决(美服),Arena of Valor (US),chuanshuoduijue(meifu),csdj(mf),5v5 Arena Game,傳說對決(US),王者荣耀美服
+com.garena.game.kgvn卍传说对决(越南服),Arena of Valor (VIE),chuanshuoduijue(yuenanfu),csdj(ynf),王者荣耀越南服
+com.tencent.ngame.chty卍传说对决(体验服),Arena of valor 体验服,chuanshuoduijue(tiyanfu),csdj(tyf),Arena of valor tiyanfu,Arena of valor tyf,传说对决,王者荣耀
+com.tencent.tmgp.zzys卍战争艺术:赤潮,Art of War: Red Tides,zhanzhengyishu:chichao,zzys:cc
+com.gameloft.android.ANMP.GloftA8CN,com.gameloft.android.ANMP.GloftA8HM卍狂野飙车8:极速凌云,Asphalt 8: Airborne,kuangyebiaoche8:jisulingyun,kybc8:jsly
+com.gameloft.android.ANMP.GloftA9HM卍狂野飙车9:传奇,Asphalt 9:Legends,kuangyebiaoche9:chuanqi,kybc9:cq,Asphalt 9: Legends,狂野飙车9竞速传奇,A9
+com.gameloft.android.ANMP.GloftMOHM卍狂野飙车:极限越野,Asphalt Xtreme,kuangyebiaoche:jixianyueye,kybc:jxyy
+com.ubisoft.assassinscreed.identity卍刺客信条：本色,Assasin's Creed Identity,cikexintiao：bense,ckxt：bs,cikexintiaobense,Assassin's Creed Identity,AC:Identity,Ubisoft Entertainment,育碧刺客教条：英雄
+com.xlegend.ff.tw卍幻想神域(台服),Aura Kingdom (TW),huanxiangshenyu(taifu),hxsy(tf),幻想神域,台服,huanxiangshenyu,hxsy,起源女神,qiyuannvshen,qyns
+com.lockwoodpublishing.avakinlife卍Avakin Life
+com.YoStarJP.AzurLane卍碧蓝航线(日服),Azur Lane (JP),bilanhangxian(rifu),blhx(rf),アズールレーン
+com.YoStarEN.AzurLane卍碧蓝航线(英文版),Azur Lane (US),bilanhangxian(yingwenban),blhx(ywb),碧藍航線 (Global),国际版
+jp.co.craftegg.band卍梦幻少女乐队(日服),BanG Dream (JP),menghuanshaonvledui(rifu),mhsnld(rf),BanG Dream!Girls Band Party!,バンドリ！ ガールズバンドパーティ！
+com.shandagames.ytx.tuanwan卍巴清传,baqingchuan,bqc
+com.rovio.battlebay卍战斗海湾,Battle Bay,zhandouhaiwan,zdhw,战舰
+tw.sonet.bgh卍战斗女子学园,Battle Girl High School,zhandounvzixueyuan,zdnzxy,戰鬥女子學園,战斗女子学院
+com.ztgame.bobglobal卍球球大作战国际版,Battle of Balls INT,qiuqiudazuozhanguojiban,qqdzzgjb,Battle of Balls
+com.BatonGames.BattlegroundSurvivor卍战地幸存者:大逃杀,Battleground's Survivor: Battle Royale,zhandexingcunzhe:dataosha,zdxcz:dts,Battleground's Survivor Battle Royale,战地幸存者:皇家战役
+com.miHoYo.game2144.mi,com.miHoYo.HSoDv2,com.miHoYo.HSoDv22144,com.miHoYo.HSoDv2BiliBiliRelease,com.miHoYo.HSoDv2Original卍崩坏学园2,benghuaixueyuan2,bhxy2
+com.miHoYo.HSoDv2JPOriginalEx卍崩坏学园2(日服),benghuaixueyuan2(rifu),bhxy2(rf),本格横スクロールアクションゲーム
+com.pearlabyss.blackdesertm.tw2卍黑色沙漠(台服),Black Desert (TW),heiseshamo(taifu),hssm(tf),Black Desert （TW）,黑色沙漠台服,heiseshamotaifu,hssmtf,黑色沙漠 MOBILE,black desert,heiseshamo
+com.pearlabyss.blackdesertm卍黑色沙漠(韩服),Black Desert(KR),heiseshamo(hanfu),hssm(hf),黑色沙漠韩服,heiseshamohanfu,hssmhf,黑色沙漠,黑色沙漠手游,heiseshamo,hssm,검은사막 모바일,blackdesertm,黑沙
+com.archbears.bs卍黑色幸存,Black Survival,heisexingcun,hsxc,블랙서바이벌,ブラサバ
+com.actgames.bbrr.jp卍苍翼之刃(日服),BLAZBLUE RR,cangyizhiren(rifu),cyzr(rf),BLAZBLUE REVOLUTION REBURNING,苍翼默示录(JP)
+com.actgames.bbrr.sgp卍苍翼之刃(国际版),Blazblue RR,cangyizhiren(guojiban),cyzr(gjb),BLAZBLUE REVOLUTION REBURNING,苍翼默示录,CYMSL
+com.gameloft.android.ANMP.GloftTAHM卍闪电部队:策略对决,Blitz Brigade,shandianbudui:celveduijue,sdbd:cldj
+com.gameloft.android.ANMP.GloftINHM卍閃電突擊隊,Blitz Brigade,shandiantujidui,sdtjd,闪电突击队,闪电部队
+com.supercell.boombeach卍海岛奇兵,Boom Beach,haidaoqibing,hdqb,boom beach
+com.tencent.tmgp.ppp.djly,com.netease.ppp卍泡泡趴,Bubble Popa,paopaopa,ppp,网易,wangyi,wy
+com.tencent.tmgp.yunchang.buliangren卍不良人2,buliangren2,blr2
+com.blayzegames.iosfps卍子弹力量,Bullet Force,zidanliliang,zdll,外服Bullet Force,cf,FPS
+com.dmmgames.bunal,com.dmm.games.bunal卍文豪与炼金术师,Bungo to Alchemist,wenhaoyulianjinshushi,whyljss,文豪與鍊金術士
+com.klab.captain283.global卍足球小将翼:梦之队伍(国际版),Captain Tsubasa:Dream Team,zuqiuxiaojiangyi:mengzhiduiwu(guojiban),zqxjy:mzdw(gjb)
+com.boombitgames.DrivingSchoolParking卍驾校模拟,Car Driving School Simulator,jiaxiaomoni,jxmn
+com.carrot.carrotfantasy卍保卫萝卜1,Carrot Fantasy 1,baoweiluobo1,bwlb1
+com.tencent.tmgp.csmsl,com.kr.hero.csmsl.ewan卍超杀默示录,chaoshamoshilu,csmsl
+com.muyou.jingqi.casg卍冲啊三国,chongasanguo,casg
+com.jingmo.ccdzz,com.tencent.tmgp.ccdzzkp卍虫虫大作战,chongchongdazuozhan,ccdzz
+com.chongdingdahui.app卍冲顶大会,chongdingdahui,cddh,问答,答题
+jp.gungho.cmg卍时空魔法,CHRONO MA:GIA,shikongmofa,skmf,クロノマギア
+com.yinhu.sdk.fzjy.pj卍创元战纪,chuangyuanzhanji,cyzj
+com.hero.sm.android.hero,com.tencent.tmgp.sm卍创造与魔法,chuangzaoyumofa,czymf
+com.tencent.woool3d卍传奇世界3D,chuanqishijie3D,cqsj3D
+com.tencent.cqsj卍传奇世界手游,chuanqishijieshouyou,cqsjsy,The World Of Legend
+com.garena.game.kgvntest卍传说对决体验服(越南),chuanshuoduijuetiyanfu(yuenan),csdjtyf(yn),Garena Liên Quân Mobile,傳說對決體驗服
+com.gameloft.citybuilder,com.gameloft.android.ANMP.GloftCMHM卍炫动城市,City Mania,xuandongchengshi,xdcs,gameloft,模拟城市,monichengshi
+cn.emagroup.kom.Tombird,com.tencent.tmgp.mbzw2卍次元大作战,ciyuandazuozhan,cydzz
+com.CG.FPS卍疯狂战争,Crazy War,fengkuangzhanzheng,fkzz
+com.titan.cd.gb	Creative卍Destruction(亚服),Creative Destruction (AS),Creative Destruction(yafu),Creative Destruction(yf),Creative Destruction,堡垒前线(海外版),baoleiqianxian(haiwaiban),blqx(hwb),启明星之谷,qimingxingzhigu,qmxzg
+com.crisisfire.cmge,com.tencent.tmgp.qmqzhero卍全民枪战,Crisis Action,quanminqiangzhan,qmqz
+com.stove.cfm.google卍穿越火线(韩服),CrossFire (KR),chuanyuehuoxian(hanfu),cyhx(hf),탄: 끝없는 전장,弹:无限战场,彈:无尽战场,FPS,CF
+com.gs5.cfm卍穿越火线(越南服),CrossFire (VIE),chuanyuehuoxian(yuenanfu),cyhx(ynf),Crossfire:Legends,CF
+com.garena.game.botw卍武裝菁英,CrossFire TW,wuzhuangjingying,wzjy,武装精英,CF,穿越火线台服,Garena
+com.gs5.cfm.th卍穿越火线(泰服),CrossFire:Legends,chuanyuehuoxian(taifu),cyhx(tf)
+com.tencent.tmgp.klsdzj,com.tencent.tmgp.klsdxsdz,com.nhnst.SKCQCN,com.toastgame.hsp.otakuchannel.LaunchActivity,com.nhnst.skcqcn.xindong卍克鲁赛德战记,Crusaders Quest,kelusaidezhanji,klsdzj,克魯賽德戰記,外服
+com.slgame.dhcq.silang卍大话苍穹,dahuacangqiong,dhcq
+com.tencent.tmgp.dhd,com.uuzu.king.yz卍大皇帝OL,dahuangdiOL,dhdOL
+com.netease.dhxyrxb,com.tencent.tmgp.yinhan.dhxyrxb卍大话西游热血版,dahuaxiyourexueban,dhxyrxb,网易大话西游热血版,wangyidahuaxiyourexueban,wydhxyrxb
+com.netease.pm04卍代号:Rider,daihao:Rider,dh:Rider,wangyi,网易,wy
+com.yingxiong.gw.Android.hero,com.yingxiong.heroo.nearme.gamecenter卍代号英雄,daihaoyingxiong,dhyx
+com.wyd.hero.dandandao.hero,com.tencent.tmgp.DDD2卍弹弹岛2,dandandao2,ddd2
+com.tencent.tmgp.ddtank卍弹弹堂,dandantang,ddt
+com.tencent.tmgp.ddtankghw,com.ddtankfcb.marwee卍弹弹堂S,dandantangS,ddtS
+com.ezfun.dfws2.sjoys卍刀锋无双2,daofengwushuang2,dfws2
+com.tencent.tmgp.bqp,net.aligames.pixelgame.bqp卍刀剑兵器谱,daojianbingqipu,djbqp
+com.tencent.tmgp.djlwol,com.youzu.djlw卍刀剑乱舞OL,daojianluanwuOL,djlwOL
+com.chuangyunet.djmx.hncy卍刀剑萌侠,daojianmengxia,djmx
+com.sq.djx.papa卍刀剑侠,daojianxia,djx
+com.tnyoo.dota,com.tencent.tmgp.dotaxiyou.tnyoo.android,com.dotaxiyouxx.cn卍刀塔西游,daotaxiyou,dtxy
+com.playcrab.dazhangmen2.uwan卍大掌门2,dazhangmen2,dzm2,dazhangmen2wenziban,dzm2wzb
+com.gameloft.android.ANMP.GloftWOHM卍暗无天日,Dead Rivals,anwutianri,awtr,unreleased,末日危機-屍戰mmo
+com.madfingergames.deadtrigger2卍死亡扳机2,Dead Trigger 2,siwangbanji2,swbj2
+com.gameloft.android.ANMP.Gloft5DHM,com.tencent.tmgp.android.ANMP.GloftG5EG卍地牢猎手5,delaolieshou5,dlls5,DungeonHunter5
+com.stairs.destinychild卍天命之子(日服),Destiny Child (JP),tianmingzhizi(rifu),tmzz(rf),デスティニーチャイルド
+com.taojin.dungeon2,com.tencent.tmgp.dungeon22卍地下城堡2:暗黑觉醒,dexiachengbao2:anheijuexing,dxcb2:ahjx
+com.tigrido.dictator.emergence卍独裁者:现身,Dictator: Emergence,ducaizhe:xianshen,dcz:xs,Dictator:Emergence,独裁者：现身,ducaizhe：xianshen,dcz：xs
+com.bandainamcoent.digimon_rearise卍数码宝贝 ReArise,Digimon ReArise,shumabaobei ReArise,smbb ReArise,数码暴龙,デジモンリアライズ,デジライズ
+com.dmm.app.store卍DMM Games
+com.hegu.dnl.mg卍阿拉德之怒,DNL,aladezhinu,aldzn,DNF,地下城盟约
+com.sunborn.girlsfrontline.jp卍少女前线(日服),Dolls Frontline,shaonvqianxian(rifu),snqx(rf),DollsFrontline,少女前线日服,ドールズフロントライン,少女前線
+com.kleientertainment.dontstarvepocket,com.kleientertainment.doNotStarvePocket卍饥荒:口袋版,Don't Starve: Pocket Edition,jihuang:koudaiban,jh:kdb
+com.kleientertainment.doNotStarveShipwrecked,apps-com.kleientertainment.doNotStarveShipwrecked卍饥荒:海难,Don't Starve:Shipwrecked,jihuang:hainan,jh:hn
+com.tencent.tmgp.ghoul,com.digitalsky.ghoul.cn卍东京战纪,dongjingzhanji,djzj,Tokyo Ghoul,东京喰种,东京食尸鬼,dongjingcanzhong,djcz,dongjingshishigui,djssg
+com.bandainamcoent.dblegends_ww,com.bandainamcoent.dblegends_jp卍七龙珠激战传说,DRAGON BALL LEGENDS,qilongzhujizhanchuanshuo,qlzjzcs,七龍珠激戰傳說,qilongzhu jizhanchuanshuo,qlz jzcs,DBLEGENDS
+com.bandainamcogames.dbzdokkanww卍七龙珠爆裂激战(台服),DragonBall Z:Dokkan Battle (TW),qilongzhubaoliejizhan(taifu),qlzbljz(tf)
+com.square_enix.android_googleplay.DQRivals卍勇者斗恶龙:宿敌,DragonQuest:Rivals,yongzhedouelong:sudi,yzdel:sd,ドラゴンクエストライバルズ,DQR
+com.nexon.durango卍野生之地:杜兰戈,Durango: Wild Lands,yeshengzhide:dulange,yszd:dlg
+com.sega.d2megaten.zh_hant卍D×2 真・女神转生:解放,D×2 zhen・nvshenzhuansheng:jiefang,D×2 z・nszs:jf
+com.stove.epic7.google卍第七史诗,Epic 7,diqishishi,dqss,epic 7,에픽세븐
+com.direwolfdigital.Phoenix卍永恒的卡牌游戏,Eternal Card Game,yonghengdekapaiyouxi,yhdkpyx,yongheng,kapaiyouxi,tcg,炉石,eternalcardgame
+com.netease.wjsy,com.tencent.tmgp.wjsy卍无尽神域,Eternal Realm,wujinshenyu,wjsy,网易,wangyi,wy
+com.cyclopsgames.experimentz卍僵尸启示,Experiment Z,jiangshiqishi,jsqs,试验Z
+com.netease.g84卍反斗海战,fandouhaizhan,fdhz
+com.tencent.tmgp.gunnergo,com.gunnergofinal.kunpo.lenovo卍反斗联盟,fandoulianmeng,fdlm
+com.sincetimes.fknsg卍放开那三国,fangkainasanguo,fknsg
+com.jingmo.ball3d,com.sy4399.ball3d.vivo卍翻滚球球,fangunqiuqiu,fgqq
+com.ilongyuan.fxbp.ly,com.tencent.tmgp.fxbp卍放学别跑,fangxuebiepao,fxbp
+com.yuejunzhang.home卍放逐游戏,fangzhuyouxi,fzyx,ExileGame,放逐游戏—大逃杀,fangzhuyouxi—dataosha,fzyx—dts,大吉大利今晚吃鸡,ShooterGame,战地之王
+com.mewe.party,com.mewe.wolf卍饭局狼人杀,fanjulangrensha,fjlrs,狼人杀,langrensha,lrs
+com.fy.twfy.xiyou卍凡仙,fanxian,fx
+com.selvas.fr卍黄金弹头,Fatal Raid,huangjindantou,hjdt,虛幻戰場,gun fire
+com.aniplex.fategrandorder.en卍Fate/GO(美服),Fate/GO (US),Fate/GO(meifu),Fate/GO(mf),Fate/Grand Order (English),Fate_GO,FGOMF
+com.tencent.tmgp.snk卍疯狂贪吃蛇,fengkuangtanchishe,fktcs,贪吃蛇
+com.yinhu.sdk.fzjy.pj卍风之纪元,fengzhijiyuan,fzjy
+com.ea.gp.fifaworld	FIFA 16卍Soccer,FIFA 16
+com.ea.gp.fifamobile卍FIFA足球(国际版),FIFA Soccer,FIFAzuqiu(guojiban),FIFAzq(gjb),FIFA World Cup™,FIFA Mobile,fifamobile
+com.xflag.fightleagueGL卍交锋联盟,Fight League,jiaofenglianmeng,jflm,交鋒聯盟
+tw.com.iwplay.ff卍最终幻想:觉醒,Final Fantasy Awakening,zuizhonghuanxiang:juexing,zzhx:jx,FINAL FANTASY最終幻想：覺醒
+com.square-enix.ffbeww,com.square_enix.android_googleplay.FFBEWW卍最终幻想:勇气Exvius,Final Fantasy Brave Exvius,zuizhonghuanxiang:yongqiExvius,zzhx:yqExvius,FF EXVIUS,最终幻想 勇气启示录,zuizhonghuanxiang yongqiqishilu,zzhx yqqsl
+com.nintendo.zaba卍火焰纹章:英雄,Fire Emblem Heroes,huoyanwenzhang:yingxiong,hywz:yx,火焰纹章：英雄,huoyanwenzhang：yingxiong,hywz：yx,fe,fire emblem heroes,日服外服
+com.blayzegames.newfps卍前锋突袭,Forward Assault,qianfengtuxi,qftx,FWD
+com.criticalforceentertainment.criticalops卍Critical Ops,fps,射击,cs,cf,cops,c-ops,关键行动,guanjianxingdong,gjxd
+com.dts.freefireth卍Free Fire,Free Fire - 我要活下去,Battlegrounds,大逃杀,自由开火,自由射击
+com.gameloft.android.ANMP.GloftOLHM卍孤胆车神:新奥尔良,Gangstar: New Orleans,gudancheshen:xinaoerliang,gdcs:xael,Gangstar：New Orleans,Gangstar New Orleans: Action Open World Game
+com.garena.game.kgsam卍传说对决(新加坡服),Garena AOV (SG),chuanshuoduijue(xinjiapofu),csdj(xjpf),Garena AOV - Arena of Valor (PH/MY/SG)
+com.garena.gas卍Garena移动版,Garena Mobile,Garenayidongban,Garenaydb
+air.com.and.games505.gemsofwar卍宝石战争,Gems of War,baoshizhanzheng,bszz
+com.bandainamcoent.garupan卍少女与战车 集结！大家的战车道！！,Girls Und Panzer: Atsumare! Mina no Senshado!!,  shaonvyuzhanche jijie！dajiadezhanchedao！！,  snyzc jj！djdzcd！！,少女与战车 集结！大家的战车道！！,shaonvyuzhanche jijie！dajiadezhanchedao！！,snyzc jj！djdzcd！！,ガルみん,少女与战车,ガールズ＆パンツァー あつまれ！みんなの戦車道！！
+com.game168.acdemygo,com.game168.moemoegirls,com.game168.moemoegirlsobt卍我的学妹不可能这么萌,Girls X Battle,wodexuemeibukenengzhememeng,wdxmbknzmm
+kr.txwy.and.snqx卍少女前线(韩服),Girls' Frontline (KR),shaonvqianxian(hanfu),snqx(hf),少女前線(KR)
+tw.txwy.and.snqx卍少女前线(台服),Girls' Frontline (TW),shaonvqianxian(taifu),snqx(tf)
+com.sunborn.girlsfrontline.us,com.sunborn.girlsfrontline.en卍少女前线(美服),Girls' Frontline (US),shaonvqianxian(meifu),snqx(mf)
+jp.co.bandainamcoent.BNEI0282,com.bandainamcoent.godeateronline卍噬神者OL,God Eater Online,shishenzheOL,sszOL,弒神者OL,GOD EATER ONLINE,GE Online
+com.tencent.tmgp.hqfy,com.netease.gfxm3卍功夫熊猫3,gongfuxiongmao3,gfxm3,网易功夫熊猫3,wangyigongfuxiongmao3,wygfxm3
+com.cmcm.arrowio卍弓箭手大作战,gongjianshoudazuozhan,gjsdzz,arrow.io,gongjianshou
+jp.mbga.a12016007.lite卍碧蓝幻想(日服),Granblue Fantasy (JP),bilanhuanxiang(rifu),blhx(rf),グランブルーファンタジー,granblue fantasy
+com.onetongames.kingofthehill卍像素大逃杀,Grand Battle Royale,xiangsudataosha,xsdts,大逃杀
+com.rockstargames.gtasa卍侠盗猎车手:圣安地列斯,GTA:SA,xiadaoliecheshou:shengandeliesi,xdlcs:sadls,GTA5
+com.tencent.tmgp.glxbwysw,com.netease.ma43.lenovo,com.netease.ma43,com.netease.ma卍乖离性百万亚瑟王,guailixingbaiwanyasewang,glxbwysw,网易乖离性百万亚瑟王,wangyiguailixingbaiwanyasewang,wyglxbwysw,乖离性MA
+com.jingmo.gsdzz,com.tencent.tmgp.gsdzz卍怪兽大作战,guaishoudazuozhan,gsdzz
+com.yinhu.sdk.gjsgz.pj卍挂机三国志,guajisanguozhi,gjsgz
+com.tencent.cldts卍光荣使命,guangrongshiming,grsm,吃鸡大逃杀
+com.tencent.tmgp.onepiecefighting卍航海王激战,hanghaiwangjizhan,hhwjz,海贼王
+com.tinyco.potter卍哈利波特,Harry Potter,halibote,hlbt,哈利波特：霍格沃茨的秘密,halibote：huogewocidemimi,hlbt：hgwcdmm,Harry Potter: Hogwarts Mystery
+com.supercell.hayday卍卡通农场,Hay Day,katongnongchang,ktnc
+com.tencent.tmgp.yunchang.djsy卍黑衣剑士,heiyijianshi,hyjs,刀剑神域
+com.ucool.heroesarena卍英雄血战,Heroes Arena,yingxiongxuezhan,yxxz,moba
+com.rsg.heroesevolved卍英魂之刃(国际服),Heroes Evolved (INT),yinghunzhiren(guojifu),yhzr(gjf),Heroes Evolved,开黑,MOBA,英魂之刃,yinghunzhiren,yhzr
+com.gameloft.heroesoc,com.gameloft.android.ANMP.GloftHOHM卍混沌与秩序之英雄战歌,Heroes of Order & Chaos,hundunyuzhixuzhiyingxiongzhange,hdyzxzyxzg,Heroes OC
+com.igenesoft.hide卍躲猫猫大作战(国际版),Hide.io (INT),duomaomaodazuozhan(guojiban),dmmdzz(gjb),躲猫猫大作战,duomaomaodazuozhan,dmmdzz
+com.fingersoft.hcr2.cn.tencent,com.mygamez.hcr2.vivo,com.fingersoft.hcr2.cn.noncmcc卍登山赛车2,Hill Climb Racing 2,dengshansaiche2,dssc2
+com.netease.hit,com.tencent.tmgp.hit卍我守护的一切,HIT,woshouhudeyiqie,wshdyq,hit
+com.nexon.hit.japan卍HIT(日服),HIT (JP),HIT(rifu),HIT(rf),HIT - ヒット,英雄之戰
+com.squareenixmontreal.hitmansniperandroid.gld,com.squareenixmontreal.hitmansniper,com.squareenixmontreal.hitmansniperandroid卍杀手:狙击,Hitman Sniper,shashou:juji,ss:jj,代号47:狙击,daihao47:juji,dh47:jj,fps,射击
+io.voodoo.holeio卍黑洞大作战,Hole.io,heidongdazuozhan,hddzz
+com.yagame.qytx.hhxz卍洪荒修真,honghuangxiuzhen,hhxz
+com.miHoYo.bh3rdJP卍崩壊3rd(日服),Honkai Impact 3 (JP),benghuai3rd(rifu),bh3rd(rf),崩坏3
+com.miHoYo.bh3oversea卍崩坏3(东南亚服),Honkai Impact 3 (SEA),benghuai3(dongnanyafu),bh3(dnyf)
+com.duowan.makefriends卍欢乐狼人杀,huanlelangrensha,hllrs
+com.tencent.tmgp.hlxq卍欢乐球吃球,huanleqiuchiqiu,hlqcq
+com.tencent.tmgp.sm.hqg,com.onektower.tgame卍花千骨,huaqiangu,hqg
+com.tencent.tmgp.hlsg2,com.hoolai.sanguo2卍胡莱三国2,hulaisanguo2,hlsg2
+com.tencent.tmgp.torchlight,com.wanmei.torchlight.ios.laohu,com.wanmei.torchlight.android卍火炬之光,huojuzhiguang,hjzg,torch light
+com.tencent.tmgp.hxjysy,com.sy4399.hxjy卍火线精英,huoxianjingying,hxjy
+com.netease.idv.googleplay,com.netease.idv_tw.googleplay卍第五人格(亚服),Identity V (AS),diwurenge(yafu),dwrg(yf),网易,wangyi,wy,黎明杀机,杀鸡,海外服
+com.netease.idv_tw.googleplay,com.netease.idv.googleplay卍第五人格(欧美服),Identity V (EU-NA),diwurenge(oumeifu),dwrg(omf),网易,wangyi,wy,黎明杀机,杀鸡
+jp.co.bandainamcoent.BNEI0242卍偶像大师 灰姑娘女孩 星光舞台,Idol Master,ouxiangdashi huiguniangnvhai xingguangwutai,oxds hgnnh xgwt,アイドルマスター シンデレラガールズ スターライトステージ,idol master
+com.gamedevltd.destinywarfare卍无尽行动,Infinity Ops,wujinxingdong,wjxd,命运之战,mingyunzhizhan,myzz
+com.wb.goog.injustice.brawler2017卍不义联盟2,Injustice 2,buyilianmeng2,bylm2,不义联盟2手游
+com.tipcat.uuuo.jlbhd,com.shyxjlb.haidaoqh卍加勒比海盗:启航,jialeibihaidao:qihang,jlbhd:qh
+com.gm99.clx卍江湖大夢,jianghudameng,jhdm
+com.tencent.tmgp.jxqy卍剑侠情缘2,jianxiaqingyuan2,jxqy2,仙侠情缘2,xianxiaqingyuan2,xxqy2
+com.tencent.tmgp.wali.jianxiashijie3D,com.wali.jianxiashijie3D卍剑侠世界,jianxiashijie,jxsj
+com.android.ninefun.mmo.yueyou.guopan卍剑与荣耀,jianyurongyao,jyry
+com.tencent.tmgp.ztgame.j3卍街机三国,jiejisanguo,jjsg
+com.ztgame.jl,com.ztgame.jielan卍街篮,jielan,jl,街头篮球,jietoulanqiu,街球,jieqiu
+com.herogame.gplay.streetballtw卍街篮(台服),jielan(taifu),jl(tf),街頭籃球,街头篮球,jietoulanqiu,jtlq
+com.xtw.jlgs卍街篮高手,jielangaoshou,jlgs
+com.tencent.game.rhythmmaster卍节奏大师,jiezoudashi,jzds
+com.tencent.tmgp.jmlzj,com.yile.game.jmlzj卍姬魔恋战纪,jimolianzhanji,jmlzj
+jp.co.ponos.jaguar卍京刀那由多,jingdaonayouduo,jdnyd,京刀のナユタ,jingdaoのナユタ,jdのナユタ
+com.tencent.tmgp.jyzj3dx,com.aicombo.ol9yin3d,com.snailgame.jyzjyd.snail卍九阴真经3D,jiuyinzhenjing3D,jyzj3D
+com.zulong.jztkc.zulong,com.tencent.tmgp.jz卍九州天空城3D,jiuzhoutiankongcheng3D,jztkc3D
+com.tencent.tmgp.tyjdzc卍决斗之城,juedouzhicheng,jdzc,游戏王
+com.windplay.tl.csj.xiaoyi卍决战昆仑,juezhankunlun,jzkl
+com.tencent.tmgp.u9time.jltx卍君临天下,junlintianxia,jltx
+com.tencent.cardmonster,com.mu77.cm卍卡片怪兽,kapianguaishou,kpgs
+com.bushiroad.kemofure卍兽娘动物园:展览区,Kemono Friends: Pavilion,shouniangdongwuyuan:zhanlanqu,sndwy:zlq,けものフレンズぱびりおん,動物朋友PAVILION
+com.vespainteractive.KingsRaid,apps-com.vespainteractive.KingsRaid卍王之袭击,King’s Raid,wangzhixiji,wzxj,kings raid
+com.aniplex.kirarafantasia卍闪耀幻想曲,Kirara Fantasia,shanyaohuanxiangqu,syhxq,きららファンタジア,芳文社,琪拉拉幻想曲
+com.netease.ko,com.netease.hyxd,com.tencent.tmgp.hyxddjly,com.netease.hyxdtw卍荒野行动(日服),Knives Out (JP),huangyexingdong(rifu),hyxd(rf),荒野行動-スマホ版バトロワ,网易,wangyi,wy,吃鸡,chiji,cj
+com.netmarble.kof卍拳皇:全明星,KOF ALLSTAR,quanhuang:quanmingxing,qh:qmx,THE KING OF FIGHTERS ALLSTAR
+com.mfjfghjytyd.ikfgdsxetgdg,com.xd.kzkd,com.xd.kzkd.xindong卍快斩狂刀,kuaizhankuangdao,kzkd
+com.qdazzle.klx,com.tencent.tmgp.klxol,com.klx.aligames卍昆仑墟,kunlunxu,klx
+com.gamedreamer.chtw,com.funigloo.latalem卍彩虹岛W,La Tale W,caihongdaoW,chdW,라테일w
+com.c2vl.kgamebox卍狼人杀,langrensha,lrs
+com.netease.lrs卍狼人杀(官方正版),langrensha(guanfangzhengban),lrs(gfzb),网易,wangyi,wy
+com.elex.lastbattlegroundsurvival卍Last Battleground:Mech,Last Battleground: Mech,Last Battleground: Survival
+zombie.survival.craft.z卍地球末日,Last Day on Earth: Survival,deqiumori,dqmr,地球终日:生存,deqiuzhongri:shengcun,dqzr:sc,Last Day On Earth: Zombie Survival,最后一天:生存
+com.tencent.clover卍雷霆战机,leitingzhanji,ltzj
+com.tencent.tmgp.ddianle.lovedance卍恋舞OL,lianwuOL,lwOL
+com.gm.lrsj.lm卍猎人世界,lierenshijie,lrsj
+com.dianhun.xgame.lvs,com.tencent.tmgp.dianhun.xgame.lvs卍光影对决,Light x Shadow,guangyingduijue,gydj,light x shadow
+com.zhihuan.games.lmfb卍黎明纪元,limingjiyuan,lmjy
+com.tencent.tmgp.dbm卍黎明之光,limingzhiguang,lmzg
+com.netmarble.revolutionthm卍天堂2:革命,Lineage2: Revolution,tiantang2:geming,tt2:gm,revolution
+com.gamania.lineagem卍天堂M(台服),LineageM (TW),tiantangM(taifu),ttM(tf)
+com.tanwan.ltcs.yy卍龙腾传世,longtengchuanshi,ltcs
+klb.android.lovelive卍LoveLive! 学园偶像祭(日服),LoveLive! ,LoveLive! xueyuanouxiangji(rifu),LoveLive! xyoxj(rf),LoveLive!
+com.sy4399.ldbys,com.tencent.tmgp.ldbys,com.ldbys.game卍乱斗吧勇士,luandoubayongshi,ldbys
+com.tencent.tmgp.ldxy2卍乱斗西游2,luandouxiyou2,ldxy2,网易乱斗西游2,wangyiluandouxiyou2,wyldxy2
+com.tencent.tmgp.luanhongsgz,com.cj.luanhongsgz.huawei卍乱轰三国志,luanhongsanguozhi,lhsgz
+com.tencent.tmgp.lhj卍轮回诀,lunhuijue,lhj
+com.tiancity.cmhm.tc,com.tencent.tmgp.tiancity.lqyxz卍洛奇英雄传:永恒,luoqiyingxiongchuan:yongheng,lqyxc:yh
+com.nexon.devcat.mabinogiduel.global卍玛奇决战,Mabinogi Duel,maqijuezhan,mqjz,瑪奇決戰
+com.netmarble.mherosgb卍漫威:未来之战(国际版),manwei:weilaizhizhan(guojiban),mw:wlzz(gjb),marvel-未來之戰
+com.netease.tjo,com.netease.tom卍猫和老鼠官方手游,maohelaoshuguanfangshouyou,mhlsgfsy,猫和老鼠,maohelaoshu,mhls,网易,wangyi,wy
+com.nexon.maplem.global卍冒险岛M(国际版),MapleStory M (Global),maoxiandaoM(guojiban),mxdM(gjb),冒险岛 M(国际版),maoxiandao M(guojiban),mxd M(gjb),冒險島M
+com.tencent.tmgp.mjj卍梦间集,mengjianji,mjj
+com.gameloft.android.ANMP.GloftDOHM卍萌龙大乱斗,menglongdaluandou,mldld,龙之狂热:传奇,longzhikuangre:chuanqi,lzkr:cq,MLDLD
+com.tencent.tmgp.dianhun.imba3卍梦三国,mengsanguo,msg
+com.tencent.tmgp.mblr,com.netease.mblr卍秘宝猎人,mibaolieren,mblr,网易,wangyi,wy
+com.netease.cys,com.tencent.tmgp.yongyong.cys卍初音速,MikuRun,chuyinsu,cys,网易,wangyi,wy,Hatsune Miku
+com.netease.mc,com.netease.x19,com.tencent.tmgp.wdsj666,com.netease.wdsj.yyxx.downjoy卍我的世界(网易版),Minecraft (NetEase),wodeshijie(wangyiban),wdsj(wyb)
+com.mojang.minecraftpe卍我的世界,Minecraft Pocket Edition,wodeshijie,wdsj,Minecraft PE,沙盒
+com.netease.mrzh卍明日之后,mingrizhihou,mrzh,网易,wangyi,wy
+com.tencent.hall.minitech.miniworld,com.tencent.tmgp.minitech.miniworld,com.minitech.miniworld卍迷你世界,minishijie,mnsj,3D沙盒
+jp.co.overfence.mitchirinekodash卍團團喵 衝刺！,MitchiriNeko POP,tuantuanmiao chongci！,ttm cc！,みっちりねこ だっしゅ！,团团喵冲刺,团团猫冲刺
+com.netease.mwqs,com.tencent.tmgp.yongyong.miwuqiusheng卍迷雾求生,miwuqiusheng,mwqs,网易,wangyi,wy
+com.tencent.tmgp.mistworld,com.netease.mistworld卍迷雾世界,miwushijie,mwsj,网易,wangyi,wy
+com.soma.ml卍移动联赛,Mobile League,yidongliansai,ydls,英雄联盟,모바일 리그,移动联盟
+com.tencent.tmgp.gundambattle卍敢达 争锋对决,Mobile Suit Gundam,ganda zhengfengduijue,gd zfdj,高达,敢达,机动战士高达,机动战士敢达,争锋对决
+com.gameloft.android.ANMP.GloftM4HM,com.gameloft.android.AMAZ.GloftM4AS卍现代战争4:决战时刻,Modern Combat 4: Zero Hour,xiandaizhanzheng4:juezhanshike,xdzz4:jzsk,MC4
+com.gameloft.android.ANMP.GloftM5HM卍现代战争5:眩晕风暴,Modern Combat 5,xiandaizhanzheng5:xuanyunfengbao,xdzz5:xyfb,現代戰爭5：黑影籠罩,ModernCombat5,fps,射击
+com.gameloft.android.ANMP.GloftMVHM卍未来特工：精英计划,Modern Combat Versus: New Online Multiplayer FPS,weilaitegong：jingyingjihua,wltg：jyjh,现代战争:尖峰对决,xiandaizhanzheng:jianfengduijue,xdzz:jfdj,现代战争6,Modern Combat Versus: FPS Game,MCVS,MC Versus
+com.gamedevltd.modernstrike卍火线出击 Online,Modern Strike,huoxianchuji Online,hxcj Online,Modern Strike Online,现代出击,FPS
+com.aniplex.monogataripucpuc卍物語系列 咕噜咕噜,Monogatari Series Pucpuc,wuyuxilie gulugulu,wyxl glgl,〈物語〉シリーズ ぷくぷく,ぷくぷく,物语
+tw.com.capcom.android.mhxr卍怪物猎人(台版),Monster Hunter (TW),guaiwulieren(taiban),gwlr(tb),魔物獵人EXPLORE
+jp.co.mixi.monsterstrike卍怪物弹珠(日服),Monster Strike (JP),guaiwudanzhu(rifu),gwdz(rf),モンスターストライク,怪物彈珠
+com.starpy.mthxtw卍魔塔守护者Online,motashouhuzheOnline,mtshzOnline
+com.zillionwhales.mushroomwars2卍蘑菇战争2,Mushroom Wars 2,moguzhanzheng2,mgzz2,MW2
+com.next.netcraft,com.mcboxol.netcraft卍奶块,naikuai,nk
+jp.co.aiia.nogifes卍乃木坂46 Rhythm Festival,naimuban46 Rhythm Festival,nmb46 Rhythm Festival
+com.bandainamcoent.ninjaborutage_app,com.bandainamcoent.ninjavoltage_app卍鸣人X博人,NARUTO X BORUTO,mingrenXboren,mrXbr,NINJA VOLTAGE,忍者BORUTAGE,忍者熱闘,NxBNV
+com.ea.gp.nbamobile_sea,com.tencent.tmgp.ea.android.chs.nbamobile,com.ea.gp.nbamobile卍NBA LIVE,NBA LIVE Mobile: 勁爆美國職籃
+com.longtugame.jymfdsj.longtu,com.longtugame.jymf,com.tencent.tmgp.jymfdsj卍新剑与魔法,New Sword and Magic,xinjianyumofa,xjymf
+com.nianticproject.ingress卍Ingress,Niantic,pokemon go,pmgo
+com.netease.onmyoji.na卍阴阳师(港台服),Onmyoji (HKTW),yinyangshi(gangtaifu),yys(gtf),阴阳师港台服,yinyangshigangtaifu,yysgtf,阴阳师海外服,yinyangshihaiwaifu,yyshwf,网易阴阳师港台服,wangyiyinyangshigangtaifu,wyyysgtf,Onmyoji
+com.netease.onmyoji.na卍阴阳师(日服),Onmyoji (JP),yinyangshi(rifu),yys(rf),陰陽師Onmyoji 和風幻想RPG,网易,wangyi,wy
+com.kakaogames.onmyouji卍阴阳师(韩服),Onmyoji (KR),yinyangshi(hanfu),yys(hf),음양사-for-kakao
+com.gameloft.android.ANMP.GloftMMHM卍混沌与秩序OL,Order & Chaos OL,hundunyuzhixuOL,hdyzxOL,Order & Chaos Online - Fantasy 3D MMORPG
+com.nexon.overhit.japan,com.nexon.overhit卍OverHit(日韩),OverHit(JP&HR),OverHit(rihan),OverHit(rh),OVERHIT(日版),OVERHIT(JP),OVERHIT(riban),OVERHIT(rb),OVERHIT日服,OVERHITrifu,OVERHITrf,OVERHIT,오버히트
+com.djwl.PLD3卍枪火游侠,Paladins Strike,qianghuoyouxia,qhyx
+com.tiancity.paopao.ewan.tencent,com.mpopkart.wdj卍跑跑卡丁车手游,paopaokadingcheshouyou,ppkdcsy
+jp.konami.pesam卍PES 2018,PES 2017,pes 2018,PRO EVOLUTION SOCCER,实况足球俱乐部,实况足球2017,shikuangzuqiu,zuqiu,soccer,2018
+m.Sgame.yzr2.SplashActivity,com.herogame.gplay.yzrtw,com.tencent.tmgp.yzr2,com.yzr2.az.uc,com.shouyou.yzr2.sw,m.Sgame.yzr2卍影之刃2,Phantom Blade 2,yingzhiren2,yzr2
+com.pixel.gun3d,com.pixel.gun3dmod,com.pixel.gun3d.abc卍像素射击,Pixel Gun 3D,xiangsusheji,xssj,像素枪战
+com.cowbeans.pixelsurvival2卍像素生存游戏2,Pixel Survival 2,xiangsushengcunyouxi2,xsscyx2,像素生存,xiangsushengcun,xssc,pixel survival 2
+com.my.moba.ent卍英雄行星,Planet of Heroes,yingxiongxingxing,yxxx
+eu.pokemmo.client卍POKEMMO
+jp.pokemon.pokemonquest卍宝可梦探险寻宝,Pokemon Quest,baokemengtanxianxunbao,bkmtxxb,寶可夢探險尋寶,pokemon quest,baokemeng tanxianxunbao,bkm txxb
+com.scee.psxandroid卍PlayStation App,PSAPP
+com.tencent.ig卍刺激战场(欧服),PUBG Mobile (EU),cijizhanchang(oufu),cjzc(of),绝地求生:刺激战场(欧服),juedeqiusheng:cijizhanchang(oufu),jdqs:cjzc(of)
+jp.gungho.pad卍智龙迷城(日服),Puzzle & Dragons (JP),zhilongmicheng(rifu),zlmc(rf)
+com.tencent.tmgp.yxsm卍枪火战神,qianghuozhanshen,qhzs
+com.xd.basketBall卍青春篮球,qingchunlanqiu,qclq
+com.four.blue.qyjd卍青云剑道,qingyunjiandao,qyjd
+com.tencent.tmgp.qitianzs,com.luomo.qitianzs1.chujian,wp.midlet.MonkeyLengendNewMM卍齐天战神,qitianzhanshen,qtzs
+com.xunyang.qyys.guopan卍契约勇士,qiyueyongshi,qyys
+com.tencent.tmgp.gods卍全民超神,quanminchaoshen,qmcs
+com.tianmashikong.qmqj.apps,com.qmqj.tianmashikong,com.tencent.tmgp.tianmashikong.qj,com.tianmashikong.qmqj,com.Tianma.QiJi.UC卍全民奇迹,quanminqiji,qmqj
+com.tencent.WeFire卍全民突击,quanmintuji,qmtj
+com.fl.qzgs.feiliu,com.tencent.tmgp.qzgs卍全职高手,quanzhigaoshou,qzgs
+net.crimoon.pmdk,com.tencent.tmgp.yinhan.crimoonpm4卍去吧皮卡丘,qubapikaqiu,qbpkq,热血精灵王,rexuejinglingwang,rxjlw
+com.atypicalgames.radiationisland卍辐射岛,Radiation Island,fushedao,fsd
+com.netease.raven,com.netease.ravcn,com.tencent.tmgp.raven卍Raven:掠夺者,Raven:lveduozhe,Raven:ldz,Ravenlveduozhe,Ravenldz,Raven lveduozhe,Raven ldz,掠夺者,Raven lueduozhe,lueduozhe,wangyilveduozhe,wyldz,网易
+com.ea.games.r3_row卍真实赛车3,Real Racing 3,zhenshisaiche3,zssc3
+com.netease.mjdjx16卍秘境对决,Realm of Duels,mijingduijue,mjdj,wangyi,网易,wy
+com.roblox.client卍Roblox手游,Roblox mobile,Robloxshouyou,Robloxsy,Roblox
+com.gamevil.heiroflight.android.google.global.normal卍荣耀继承者,rongyaojichengzhe,ryjcz,榮耀繼承者
+com.tencent.tmgp.areal卍如果的世界,ruguodeshijie,rgdsj
+com.gameabc.sgspad,com.sanguosha.sgsol,com.sanguosha.sgsolabaidu.BD,com.sanguosha.sgsolaxiaomi.mi,com.sanguosha.sgsolauc.uc,com.sanguosha.sgsola360_1,com.tencent.tmgp.sanguosha卍三国杀OL互通版,sanguoshaOLhutongban,sgsOLhtb
+com.shouyou.sgzerq.bg卍三国志2017,sanguozhi2017,sgz2017
+com.yh.lhsgz.yh卍三国志烈伝,sanguozhilieyun,sgzly,dragon blade,乱轰三国志
+com.tencent.tmgp.sgzr卍三国之刃,sanguozhiren,sgzr
+com.netease.ssy,com.netease.ssydj卍三少爷的剑,sanshaoyedejian,ssydj,网易,wangyi,wy
+com.bandainamcoent.saomdas,jp.co.bandainamcoent.BNEI0294卍刀剑神域:记忆重组 国际服,SAO MD (HKTW),daojianshenyu:jiyizhongzu guojifu,djsy:jyzz gjf,daojianshenyu:jiyisuipian guojifu,djsy:jysp gjf,刀剑神域：记忆重组,daojianshenyu：jiyisuipian,djsy：jysp,saomd,记忆重组,记忆碎片,港台服国际服外服,SWORD ART ONLINE:Memory Defrag
+jp.co.sumzap.pj0002卍战国阿修罗,Sengoku ASURA,zhanguoaxiuluo,zgaxl,战国ASURA,zhanguoASURA,zgASURA,戰國阿修羅,戦国ASURA
+com.ftt.sevenguardians.gl.global卍七雄战记,Seven Guardians,qixiongzhanji,qxzj,七雄战记：最后的守护者,qixiongzhanji：zuihoudeshouhuzhe,外服
+com.netmarble.sknightsgb卍七騎士,Seven Knights,qiqishi,qqs,七骑士
+com.cloudcade.shopheroes卍商店英雄,shangdianyingxiong,sdyx,Shop Heroes
+com.yinhu.sdk.fxy.pj卍山海启示录,shanhaiqishilu,shqsl
+com.tencent.tmgp.yzsnxyj,com.snxyj.apk.nearme.gamecenter卍少年西游记,shaonianxiyouji,snxyj
+com.tencent.tmgp.xsj.girlcafegun,com.xsj.girlcafegun卍少女咖啡枪,shaonvkafeiqiang,snkfq
+com.tencent.tmgp.meiqi.sdyxz.android卍射雕英雄传3D,shediaoyingxiongchuan3D,sdyxc3D
+com.bilibili.BulletBible.bili,com.tencent.tmgp.bilibili.sdmht卍神代梦华谭,shendaimenghuatan,sdmht
+com.wooduan.ssjj,com.tencent.tmgp.wooduan.ssjj卍生死狙击,shengsijuji,ssjj
+com.tencent.tmgp.cmge.myth卍神话永恒,shenhuayongheng,shyh
+com.nubee.valkyriecrusade卍神女控,shennvkong,snk,valkyrie-crusade
+com.smiletech.ragnania.alpha卍神位纷争,shenweifenzheng,swfz
+com.shandagames.DEVINE,com.tencent.tmgp.DEVINE卍神无月,shenwuyue,swy
+com.morningtec.abyss卍深渊地平线,shenyuandepingxian,sydpx,アビホラ,アビス・ホライズン
+com.tuanzi.sheshe,air.com.hypah.io.slither卍蛇蛇大作战,sheshedazuozhan,ssdzz
+com.tencent.tmgp.bairimeng.snake,com.bairimeng.snake卍蛇蛇争霸,sheshezhengba,sszb
+com.yinhan.hunter卍时空猎人,shikonglieren,sklr
+cn.yh.cos,com.yinhan.skzh,com.tencent.tmgp.yinhan.skzh卍时空召唤,shikongzhaohuan,skzh
+com.netease.wecc卍实况:王者集结,shikuang:wangzhejijie,sk:wzjj,网易,wangyi,wy
+com.tencent.tmgp.cjad卍十万个冷笑话,shiwangelengxiaohua,swglxh
+com.zhuiqu.sg.tap,com.tencent.tmgp.sgpx卍曙光破晓,shuguangpoxiao,sgpx
+com.ea.game.simcitymobile_row,com.eagames.simcity.qihoo360卍模拟城市,SimCity BuildIt,monichengshi,mncs
+jp.co.pokelabo.sinoalice卍死亡爱丽丝,SINoALICE,siwangailisi,swals,SINo爱丽丝,SINoailisi,SINoals,シノアリス,SINoALICE ーシノアリスー
+com.gameloft.android.ANMP.GloftFWHM卍炽热狙击,Sniper Fury,chirejuji,crjj
+com.ChillyRoom.DungeonShooter,com.liangwu.yuanqiqishi.vivo,yuanqiqishi.game.mz,com.jingmo.knight,com.tencent.tmgp.yqqskp,com.Yuanqi.qishi卍元气骑士,Soul Knight,yuanqiqishi,yqqs,soul knight
+com.ForgeGames.SpecialForcesGroup2卍特种部队小组2,Special Forces Group 2,tezhongbuduixiaozu2,tzbdxz2,csgo,SFG2,反恐精英
+com.gameloft.android.ANMP.GloftSIHM卍蜘蛛侠:极限,Spider-Man Unlimited,zhizhuxia:jixian,zzx:jx,MARVEL Spider-Man Unlimited,蜘蛛人：飛越無限
+com.ea.game.starwarscapital_row卍星球大战:银河英雄传,Star Wars™:Galaxy of Heroes,xingqiudazhan:yinheyingxiongchuan,xqdz:yhyxc,Star Wars™: Galaxy of Heroes
+com.hzfb.racing8卍速度与激情8,suduyujiqing8,sdyjq8
+com.nintendo.zara卍超级马里奥酷跑,Super Mario Run,chaojimaliaokupao,cjmlakp,超级马里奥,chaojimaliao,cjmla,mla,SMR,外服
+com.q1.survival	Survival卍Squad(美服),Survival Squad(meifu),Survival Squad(mf)
+com.q1.survival	Survival卍Squad(亚服),Survival Squad(yafu),Survival Squad(yf),Survival Squad
+com.bandainamcoent.saoif卍刀剑神域 Integral Factor,Sword Art Online Integral Factor,daojianshenyu Integral Factor,djsy Integral Factor,ソードアート・オンライン インテグラル・ファクター,SAOIF
+com.bandainamcoent.saoifww卍刀剑神域:关键斗士(国际版),Sword Art Online Integral Factor,daojianshenyu:guanjiandoushi(guojiban),djsy:gjds(gjb),刀剑神域:关键斗士,daojianshenyu:guanjiandoushi,djsy:gjds,刀劍神域:關鍵鬥士
+com.tencent.tmgp.jzryv1,com.android.ninefun.mmo卍剑之荣耀,Sword of Glory (CN),jianzhirongyao,jzry
+com.snailgames.taiji,com.tencent.tmgp.tjxm,com.snailgameusa.tp卍太极熊猫,taijixiongmao,tjxm
+com.tencent.tmgp.kaopu.tjxm3卍太极熊猫3:猎龙,taijixiongmao3:lielong,tjxm3:ll
+com.wepie.snakegame,com.wepie.snake,com.wepie.snakeoff卍贪吃蛇大作战,tanchishedazuozhan,tcsdzz,贪食蛇大作战,tanshishedazuozhan,tssdzz
+com.netease.tank卍坦克连,Tank Company,tankelian,tkl,网易,wangyi,wy
+com.taole.pisces_tlp,com.tencent.tmgp.pisces卍桃花源记,taohuayuanji,thyj
+com.tencent.tmgp.bairimeng.dmmdzz,com.bairimeng.dmmdzz卍逃跑吧！少年,taopaoba！shaonian,tpb！sn,逃跑吧少年
+eu.bandainamcoent.tekkenmobile卍铁拳,TEKKEN™ ,tiequan,tq,TEKKEN™,鐵拳 - TEKKEN™ -
+com.idreamsky.terraria,com.505games.terraria,com.and.games505.TerrariaPaid,com.and.games505.Terraria卍泰拉瑞亚,Terraria,tailaruiya,tlry
+jp.co.gu3.alchemist卍为了谁的炼金术士(日服),The Alchemist Code (JP),weilesheidelianjinshushi(rifu),wlsdljss(rf),誰ガ為のアルケミスト
+com.denachina.g23000114.android卍为了谁的炼金术士(台服),The Alchemist Code (TW),weilesheidelianjinshushi(taifu),wlsdljss(tf)
+com.bandainamcoent.imas_millionlive_theaterdays卍偶像大师:百万现场!剧场时光,The Idolmaster:Million Live!,ouxiangdashi:baiwanxianchang!juchangshiguang,oxds:bwxc!jcsg,アイドルマスター ミリオンライブ！ シアターデイズ,ミリシタ,ouxiangdashibaiwanxianchangjuchangshiguang
+com.ea.games.simsfreeplay_row,com.ea.sims3deluxe.ipad.bv,com.ea.games.simsfreeplay_na卍模拟人生™:畅玩版,The Sims™ FreePlay,monirensheng™:changwanban,mnrs™:cwb,模拟人生,monirensheng
+com.ea.gp.simsmobile卍模拟市民,The Sims™ Mobile,monishimin,mnsm,The Sims 模擬市民手機版,模拟人生
+com.tencent.tmgp.ma71,com.netease.ma71卍边境之旅,The Trail (CN),bianjingzhilv,bjzl,网易,wangyi,wy
+com.nextgames.android.twd,com.nextgames.twd,com.xingshirouzowu卍行尸走肉:无人之地,The Walking Dead: No Man’s Land,xingshizourou:wurenzhidi,xszr:wrzd
+com.swiftappskom.thewolfrpg卍狼族,The Wolf,langzu,lz,The Wolf: Online RPG Simulator,Wild animal multiplayer battle
+com.com2us.imo.normal.freefull.google.global.android.common卍魔法世界,The World of Magic,mofashijie,mfsj
+com.dena.a12022874卍天华百剑 -斩-,tianhuabaijian -zhan-,thbj -z-,天華百剣 -斬-
+com.blazefire.tkswz.tuanwan卍天空守望者,tiankongshouwangzhe,tkswz
+com.tencent.tmgp.mtlbb卍天龙3D,tianlong3D,tl3D
+com.tencent.tmgp.yongyong.tqlm,com.netease.tqlm卍天启联盟,tianqilianmeng,tqlm,网易,wangyi,wy
+com.wanda.hjl.wdgw卍天生不凡,tianshengbufan,tsbf
+com.tencent.tmgp.tt2xmysdk,com.snailgame.lineage卍天堂2:血盟,tiantang2:xuemeng,tt2:xm
+com.ncsoft.lineagem19卍天堂M(韩服),tiantangM(hanfu),ttM(hf),리니지M
+com.tencent.modoomarble,com.tencent.moma卍天天富翁,tiantianfuweng,ttfw
+sdbean.MegaWerewolf,com.sdbean.werewolf卍天天狼人杀,tiantianlangrensha,ttlrs,狼人杀
+com.tencent.game.VXDGame卍天天炫斗,tiantianxuandou,ttxd
+com.square_enix.android_googleplay.TojinomikoTomoshibi卍刀使的巫女:刻印一闪的灯火,Toji no Miko:Kizamishi Issen no Tomoshibi,daoshidewunv:keyinyishandedenghuo,dsdwn:kyysddh,刀使ノ巫女 刻みし一閃の燈火,刀使巫女
+jp.ne.donuts.t7s卍东京七姐妹,Tokyo 7th Sister,dongjingqijiemei,djqjm,東京第7姐妹,Tokyo 7th シスターズ
+com.asobimo.toramonline卍托兰异世录,Toram Online,tuolanyishilu,tlysl,托蘭異世錄,トーラムオンライン
+com.dmm.games.touken卍刀剣乱舞(日服),Touken Ranbu (JP),daojianluanwu(rifu),djlw(rf),刀剑乱舞日服,刀剣乱舞-ONLINE- Pocket,Touken Ranbu Online
+com.playrix.township卍梦想小镇,Township,mengxiangxiaozhen,mxxz,township
+com.ubisoft.redlynx.trialsfrontier.ggp卍特技摩托：前线,Trials Frontier,tejimotuo：qianxian,tjmt：qx,特技摩托賽：前線
+com.yiyou.ga卍TT语音,TTyuyin,TTyy
+com.xiaoyou.ToramOnline,com.xiaoyou.ToramOnline.aligames.uc,com.xiaoyou.ToramOnline360卍托拉姆物语,tuolamuwuyu,tlmwy
+com.dmm.games.unitia.tc	UNITIA卍神托的使徒×终焉的女神,UNITIA,UNITIA shentuodeshitu×zhongyandenvshen,UNITIA stdst×zydns,UNITIA 神託の使徒×終焉の女神,UNITIA shentuoのshitu×zhongyanのnvshen,UNITIA stのst×zyのns,DMM,ユニティア
+com.gameloft.android.ANMP.GloftUOHM卍优诺纸牌,UNO ™ & Friends,younuozhipai,ynzp
+com.superevilmegacorp.game,com.superevilmegacorp.kindred卍虚荣(亚服),Vainglory (AS),xurong(yafu),xr(yf),虚荣(海外服),Vainglory (Oversea),xurong(haiwaifu),xr(hwf),虚荣,xurong,xr,Vainglory,moba,海外服
+com.superevilmegacorp.kindred,com.superevilmegacorp.game卍虚荣(国服),Vainglory (CN),xurong(guofu),xr(gf),vainglory,VG
+com.superevilmegacorp.game,com.superevilmegacorp.kindred卍虚荣(欧服),Vainglory (EU),xurong(oufu),xr(of)
+com.superevilmegacorp.game,com.superevilmegacorp.kindred卍虚荣(美服),Vainglory (US),xurong(meifu),xr(mf)
+jp.co.atm.vcon.ww,jp.co.atm.vcon.jp卍神域召唤,Valkyrie Connect,shenyuzhaohuan,syzh,外服
+com.hoodoogames.vast卍绝处逢生,Vast Survival,juechufengsheng,jcfs,Vast Survival (Multiplayer),H1Z1,外服,fps,射击
+com.rayark.valkyrie	VOEZ 兰空,VOEZ卍蘭空,VOEZ lankong,VOEZ lk
+org.cocos2dx.tests,org.mieshiqq卍忘仙,wangxian,wx
+com.tnyoo.fps,com.tencent.tmgp.fps.tnyoo.android卍王者军团,wangzhejuntuan,wzjt
+com.tencent.tmgp.sgamece,com.tencent.tmgp.sgamece-ext卍王者荣耀前瞻版,wangzherongyaoqianzhanban,wzryqzb,王者荣耀体验服
+com.netease.wjdld,com.tencent.tmgp.wjdld卍玩具大乱斗,wanjudaluandou,wjdld,网易,wangyi,wy
+com.ilongyuan.sdorica.longyuan,com.rayark.sdorica卍万象物语,wanxiangwuyu,wxwy,Sdorica
+com.pixonic.wwr卍战争机器人,War Robots,zhanzhengjiqiren,zzjqr,进击的战争武器,jjdzzwq
+com.sixjoy.warsong1卍战争之歌,War Song,zhanzhengzhige,zzzg,War Song(Unreleased),ウォーソング,王者荣耀日服
+com.tencent.warwings2卍浴血长空(亚服),War Wings (AS),yuxuezhangkong(yafu),yxzk(yf),War Wings
+com.tencent.warwings2卍浴血长空(澳服),War Wings (AU),yuxuezhangkong(aofu),yxzk(af),War Wings
+com.tencent.warwings2卍浴血长空(欧服),War Wings (EU),yuxuezhangkong(oufu),yxzk(of),浴血長空,War Wings
+com.tencent.warwings2卍浴血长空(美服),War Wings (US),yuxuezhangkong(meifu),yxzk(mf),浴血長空,War Wings
+com.aigrind.warspear卍战矛在线,Warspear Online,zhanmaozaixian,zmzx
+com.denachina.g13002001.denacn卍为谁而炼金,weisheierlianjin,wselj
+jp.co.freep.usokano卍伪装女友,weizhuangnvyou,wzny,ニセカノ〜チャットでアイドルと恋愛しよう〜
+com.wb.goog.westworld卍西部世界,Westworld,xibushijie,xbsj
+tw.sonet.wcp卍白猫计划(台服),White Cat Project (TW),baimaojihua(taifu),bmjh(tf),白貓Project
+com.hanaGames.WildAnimalsOnline卍丛林法则,Wild Animals Online,conglinfaze,clfz,WAO
+com.gaea.yszz,com.tencent.tmgp.yszz,com.gaea.wdzz卍我的战争,wodezhanzheng,wdzz
+com.tencent.tmgp.wohucanglong,com.sqage.Ogre.OgreInstance卍卧虎藏龙,wohucanglong,whcl
+com.aligames.sqage.xtxj,com.tencent.tmgp.yongyong.whcl卍卧虎藏龙2,wohucanglong2,whcl2,卧虎藏龙贰
+com.tencent.tmgp.mt2卍我叫MT2,wojiaoMT2,wjMT2
+com.istorm.kht.gw,com.tencent.tmgp.kht卍我叫MT开荒团,wojiaoMTkaihuangtuan,wjMTkht
+com.square_enix.android_googleplay.WOFFMeliMeloj卍最终幻想世界:怪兽养成,World of Final Fantasy:Meli-Melo,zuizhonghuanxiangshijie:guaishouyangcheng,zzhxsj:gsyc,MERIMERO,WFFMM
+com.tencent.tmgp.yongyong.tksjsjz,com.netease.wotb卍坦克世界闪击战,World of Tank Blitz (CN),tankeshijieshanjizhan,tksjsjz,网易,wangyi,wy
+net.wargaming.wot.blitz,net.wargaming.wotblitz卍坦克世界:闪电战,World of Tanks Blitz,tankeshijie:shandianzhan,tksj:sdz,坦克世界：闪电战,tankeshijie：shandianzhan,tksj：sdz,坦克世界：闪击战,tankeshijie：shanjizhan,tksj：sjz
+net.wargaming.wows.blitz卍战舰世界:闪电战,World of Warships Blitz,zhanjianshijie:shandianzhan,zjsj:sdz,WOWSB,战舰世界闪击战
+com.gamedevltd.wwh卍世界战争-英雄,World War Heroes,shijiezhanzheng-yingxiong,sjzz-yx,二战英雄,erzhanyingxiong,ezyx,世界大战英雄,wwh,shijiedazhanyingxiong,sjdzyx
+com.tencent.tmgp.wjzqjx,com.netease.wjzqjx卍无尽战区:觉醒,wujinzhanqu:juexing,wjzq:jx,网易,wangyi,wy
+com.idreamsky.worldoffiveelements,com.tencent.tmgp.wuxingtian卍五行天手游,wuxingtianshouyou,wxtsy
+com.sofunny.Chicken卍香肠派对,xiangchangpaidui,xcpd,战斗岛
+com.thosecoolguys.pbg卍像素求生:大逃杀,xiangsuqiusheng:dataosha,xsqs:dts,Pixel Battleground
+com.softstargames.hlj,com.tencent.tmgp.huanlijing卍仙剑奇侠传幻璃镜,xianjianqixiachuanhuanlijing,xjqxchlj
+com.tencent.tmgp.palol卍仙剑奇侠传online,xianjianqixiachuanonline,xjqxconline
+com.csj.xianjian.xjyzf卍仙剑云之凡,xianjianyunzhifan,xjyzf
+com.tencent.tmgp.zhizhu.xldzz,com.jingmo.zzxy卍仙灵大作战,xianlingdazuozhan,xldzz
+com.tencent.tmgp.lilith_dtcq卍小冰冰传奇,xiaobingbingchuanqi,xbbcq,刀塔传奇,daotachuanqi,dtcq
+com.tencent.tmgp.wesix卍消除者联盟,xiaochuzhelianmeng,xczlm
+com.ak.mi,com.tencent.tmgp.ak卍小米枪战,Xiaomi Gun Battle (CN),xiaomiqiangzhan,xmqz
+me.zhuque.moba.mi,me.zhuque.moba.GameActivity,me.zhuque.moba.taste卍小米超神,Xiaomi Legend,xiaomichaoshen,xmcs,moba
+com.tencent.tmgp.xxtjd,com.duobao.xxtjd,com.sy4399.xxtjd卍小小突击队,xiaoxiaotujidui,xxtjd
+com.jingmo.yxzb,com.tencent.tmgp.xxyxkp,com.sy4399.yxzb卍小小英雄,xiaoxiaoyingxiong,xxyx
+com.tencent.tmgp.h3dstarwars卍星际火线,xingjihuoxian,xjhx
+com.cyou.xyj.cyou卍新轩辕剑,xinxuanyuanjian,xxyj
+com.tencent.tmgp.ysj卍妖神记,yaoshenji,ysj
+com.bbqstudio.bbqq,com.bbqstudio.bbqqexp卍野蛮人大作战,yemanrendazuozhan,ymrdzz
+com.dianhun.IMBA卍硬霸三国,yingbasanguo,ybsg
+com.tencent.tmgp.coslegend,com.netdragon.heroesevolved,com.tq.he.nearme.gamecenter卍英魂之刃,yinghunzhiren,yhzr
+com.tencent.tmgp.dragontcg1卍英灵召唤师,yinglingzhaohuanshi,ylzhs
+com.jingmo.qzyx2,com.sy4399.qzyx2,com.tencent.tmgp.yxqzkp卍英雄枪战,yingxiongqiangzhan,yxqz
+com.tencent.tmgp.yxzg卍英雄战歌,yingxiongzhange,yxzg
+com.wyd.hero.yqlfc.cb1,com.unity.wydsdk.SplashActivity,com.tencent.tmgp.yqlfc卍一起来飞车,yiqilaifeiche,yqlfc,来飞车
+com.Level5.YSG2卍妖怪三国志-国盗战争,Yo-Kai Sangokushi,yaoguaisanguozhi-guodaozhanzheng,ygsgz-gdzz,国盗りウォーズ
+jp.konami.duellinks,jp.konami.yugiohmobile卍游戏王,Yu-Gi-Oh!,youxiwang,yxw,决斗联盟,juedoulianmeng,yxwjdlm,duel links,日服外服
+com.ssyar.green卍原谅帽大作战,yuanliangmaodazuozhan,ylmdzz
+com.ysr.yoogame卍原始人物語:部落時代,yuanshirenwuyu:buluoshidai,ysrwy:blsd,部落契约,buluoqiyue,blqy
+com.tencent.tmgp.warwingscn卍浴血长空,yuxuezhangkong,yxzk
+org.cocos2dx.zmxy.m4399卍造梦西游4,zaomengxiyou4,zmxy4
+com.gwd.zmxyonline,com.tencent.tmgp.zmxyol,org.yjmobile.zmxy卍造梦西游OL,zaomengxiyouOL,zmxyOL
+com.xl.zdzhg.stargame,com.tencent.tmgp.zdzhg卍战地指挥官,zhandezhihuiguan,zdzhg
+com.tencent.tmgp.bnsm卍战斗吧剑灵,zhandoubajianling,zdbjl,Blade&Soul mobile
+com.netease.h50,com.netease.zgz卍战国志,zhanguozhi,zgz,网易,wangyi,wy
+com.loong.jpyyl,com.loong.warship.zl卍战舰联盟,zhanjianlianmeng,zjlm,舰炮与鱼雷,jianpaoyuyulei
+com.kongzhong.d183.paycenter,com.tencent.tmgp.zjls2017卍战舰猎手,zhanjianlieshou,zjls
+com.hoolai.zjsnr.mi,com.huanmeng.zhanjian2,com.moefantasy.warshipgirls,com.tencent.tmgp.zhanjian2,com.p7game.shipwar.vivo卍战舰少女R,zhanjianshaonvR,zjsnR
+com.tencent.tmgp.ftf,com.dygame.fight卍战就战,zhanjiuzhan,zjz
+com.askj.jtyl5.ewan卍战玲珑,zhanlinglong,zll
+com.netease.zznh.netease卍战争怒吼,zhanzhengnuhou,zznh,网易,wangyi,wy
+com.tiancity.zzywm.tc,com.tencent.tmgp.tiancity.dom卍战争与文明,zhanzhengyuwenming,zzywm
+com.zhaohe.game522卍召唤与合成,zhaohuanyuhecheng,zhyhc
+com.netease.zztj卍重装突击,zhongzhuangtuji,zztj,网易,wangyi,wy
+com.netease.zcddl卍猪场怼怼乐,zhuchangduiduile,zcddl,网易,wangyi,wy
+com.cjgame.qytx.zscx卍诛神成仙,zhushenchengxian,zscx
+com.tencent.tmgp.dw.fs.yyb,com.dw.fs卍自由之战,ziyouzhizhan,zyzz
+com.tencent.tmgp.fff2,com.gaeamobile.cn.fff2,com.aligames.fff2卍自由之战2,ziyouzhizhan2,zyzz2
+com.flaregames.zgs卍僵尸炮艇:生存大战,Zombie Gunship Survival,jiangshipaoting:shengcundazhan,jspt:scdz,ZG Survival
+jp.co.bandainamcoonline.idolish7卍IDOLiSH7,アイドリッシュセブン
+com.square_enix.android_googleplay.BattleofBladesjp卍Battle of Blade,バトル オブ ブレイド
+com.duoyi.m2csm卍传送门骑士,传送门骑士手游,chuansongmenqishi,csmqs
+com.tencent.iglite卍PUBG MOBILE LITE,刺激战场,绝地求生
+com.dmm.dmmlabo.aigisc卍千年战争,千年战争Aigis,qiannianzhanzheng,qnzz,千年戦争アイギスA
+com.tencent.tmgp.hxsy,com.zlongame.hxsy卍幻想神域,幻想神域手游,huanxiangshenyu,hxsy,huanxiangshenyushouyou,hxsysy
+com.zeptolab.cats.google卍C.A.T.S.,战车大战,zhanchedazhan,zcdz,CATS: Crash Arena Turbo Stars
+com.square_enix.hoshinodqjp卍星之勇者斗恶龙,星のドラゴンクエスト,xingzhiyongzhedouelong,xzyzdel
+com.tencent.tmgp.rxcq卍热血传奇,热血传奇-跨服新大陆,rexuechuanqi,rxcq,热血传奇 跨服新大陆,rexuechuanqi kuafuxindalu,rxcq kfxdl
+com.tencent.tmgp.pubgmhdce卍刺激战场(体验服),绝地求生:刺激战场(体验服),cijizhanchang(tiyanfu),cjzc(tyf),吃鸡,chiji
+com.ubisoft.uplay卍Ubisoft Club,育碧
+com.vshower.prd_sr卍青石,青石手游,qingshi,qs,Blustone
+com.tricksterarts.hackers卍Hackers,黑客,骇客
+com.nexon.axe卍AxE,액스
+com.ea.game.nfs14_row卍极品飞车:无限狂飙,Need for Speed™ No Limits,jipinfeiche:wuxiankuangbiao,jpfc:wxkb
+com.netease.g78na.gb,com.netease.g78na.tw卍决战!平安京(海外),Onmyoji Arena,juezhan!pinganjing(haiwai),jz!paj(hw),决战!平安京(日服),決戰平安京,juezhan!pinganjing(rifu),jz!paj(rf),决战！平安京(日服),juezhan！pinganjing(rifu),jz！paj(rf),决战！平安京(海外版),juezhan！pinganjing(haiwaiban),jz！paj(hwb),网易,wangyi,wy
+com.gameloft.android.ANMP.GloftO2HM卍混沌与秩序2：救赎,Order and Chaos 2: Redemption,hundunyuzhixu2：jiushu,hdyzx2：js,混沌与秩序2,hundunyuzhixu2,hdyzx2
+com.sega.PhantasyStarOnline2es卍梦幻之星网路版 2 es,Phantasy Star Online 2 es,menghuanzhixingwangluban 2 es,mhzxwlb 2 es,ファンタシースターオンライン2 es,Phantasy Star Online2 es,pso2es
+com.ea.gp.pvzheroes卍植物大战僵尸™英雄,Plants vs. Zombies™ Heroes,zhiwudazhanjiangshi™yingxiong,zwdzjs™yx
+tw.sonet.princessconnect卍公主连接!Re:Dive(台服),Princess Connect! Re:Dive(TW),gongzhulianjie!Re:Dive(taifu),gzlj!Re:Dive(tf),超異域公主連結!Re:Dive,Princess Connect! Re:Dive
+com.funcity.carsbattletwo卍求生之王:绝地大逃杀,Royale BattleGrounds,qiushengzhiwang:juededataosha,qszw:jddts,求生之王:大逃杀,qiushengzhiwang:dataosha,qszw:dts,大吉大利今晚吃鸡,CarsBattle2: Royale BattleGrounds
+com.nexon.caocao.taiwan卍三国志曹操传 online,Sangokushi Sousouden Online,sanguozhicaocaochuan online,sgzccc online
